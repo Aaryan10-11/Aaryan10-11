@@ -1,5 +1,13 @@
 # 💫 About Me:
-🤖 I build multi-agent systems, RAG pipelines and LLM-powered backends with Python, LangChain, LangGraph and FastAPI<br>🛡️ Software Engineer Intern (AI), Government Internship under the PMO (Feb–Aug 2026): built AI-driven cybersecurity workflows<br>🏆 2nd Rank, Smart India Hackathon 2025 (National Level)<br>🎓 B.E. Information Technology, Zeal College of Engineering & Research, Pune (2026)<br>🔭 Open to AI / LLM / GenAI engineering roles. Let's talk!
+• I build multi-agent systems, RAG pipelines and LLM-powered backends with Python, LangChain, LangGraph and FastAPI.
+
+• Software Engineer Intern (AI), Government Internship under the PMO (Feb–Aug 2026): built AI-driven cybersecurity workflows.
+
+• 2nd Rank, Smart India Hackathon 2025 (National Level).
+
+• B.E. Information Technology, Zeal College of Engineering & Research, Pune (2026).
+
+• Open to AI / LLM / GenAI engineering roles. Let's talk!
 
 
 ## 🌐 Socials:
