@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 • I build multi-agent systems, RAG pipelines and LLM-powered backends with Python, LangChain, LangGraph and FastAPI.
 
 • Software Engineer Intern (AI), Government Internship under the PMO (Feb–Aug 2026): built AI-driven cybersecurity workflows.
